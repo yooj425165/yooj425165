@@ -12,7 +12,8 @@ print("포기는 배추를 셀 때 하는말 🥬")
 ## Recent My State 📊
 ``` Python
 BSSM_HS = 1
-myBrain=[]
+
+myBrain = []
 
 while(BSSM_HS):
   myBrain.append("knowledge 📖")
