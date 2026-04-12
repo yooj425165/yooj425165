@@ -2,7 +2,11 @@
 <p>제 Git은... 비어있습니다. 이것이 <mark><b><span style="color:yellow">여백의 미</span></b></mark> 입니다.</p>
 <p>인스타그램 : <a href="https://www.instagram.com/ya3.1650?igsh=MXdjend0ZGViZmpleg%3D%3D&utm_source=qr">ya3.1650</a></p>
 <h3>요즘 기분은 어떠세요? 🤔</h3>
-<progress value="40" max="100"></progress>
+<select>
+  <option>좋음</option>
+  <option>보통</option>
+  <option selected>나쁨</option>
+</select>
 
 <!--
 **yooj425165/yooj425165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
