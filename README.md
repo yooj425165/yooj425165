@@ -11,7 +11,8 @@ print("포기는 배추를 셀 때 하는말 🥬")
 
 ## Recent My State 📊
 ``` Python
-BSSM=1
+BSSM = 1
+
 while(BSSM):
   print("공부 📚") 
 ```
