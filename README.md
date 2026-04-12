@@ -1,6 +1,6 @@
 # Welcome to My Git 👋
 제 Git은... 비어있습니다. 이것이 바로 **"여백의 미"** 입니다.
-
+> 꽃등 마음먹은 대로..
 ## Languages 📄
 - C
 - Python
