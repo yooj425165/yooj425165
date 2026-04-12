@@ -9,8 +9,9 @@
 ## Connection 🔗
 - 인스타그램 ⭐️ : [ya3.1650](https://www.instagram.com/ya3.1650?igsh=MXdjend0ZGViZmpleg%3D%3D&utm_source=qr)
 - 디스코드 🎮 : JOOT#1178
-
-
+``` Python
+print("포기는 배추를 셀 때 하는말")
+```
 <!--
 **yooj425165/yooj425165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
