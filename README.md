@@ -7,7 +7,8 @@
 - HTML
   
 ## Connection 🔗
-인스타그램 ⭐️ : [ya3.1650](https://www.instagram.com/ya3.1650?igsh=MXdjend0ZGViZmpleg%3D%3D&utm_source=qr)
+- 인스타그램 ⭐️ : [ya3.1650](https://www.instagram.com/ya3.1650?igsh=MXdjend0ZGViZmpleg%3D%3D&utm_source=qr)
+- 디스코드 🎮 : JOOT#1178
 
 
 <!--
