@@ -2,10 +2,12 @@
 제 Git은... 비어있습니다. 이것이 바로 **"여백의 미"** 입니다.
 <br>
 <br>
+
 ## Languages 📄
 - C
 - Python
 - HTML
+  
 <br>
 <br>
 ## Connection 🔗
