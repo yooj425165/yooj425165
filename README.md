@@ -8,26 +8,14 @@ print("포기는 배추를 셀 때 하는말 🥬")
 - C
 - Python
 - HTML
-``` HTML 5
-<form>
-  <fieldset>
-    <label for="emotion">요즘 당신의 기분은? 🤔</label>
-    <select id="emotion">
-      <option value="good">좋음</option>
-      <option value="idk" selected>보통</option>
-      <option value="bad">나쁨</option>
-    </select>
-    <button type="submit">제출하기</button>
-  <fieldset>
-<form>
-```
 
 ## Recent My State 📊
 ``` Python
-BSSM = 1
+BSSM_HS = 1
+myBrain=[]
 
-while(BSSM):
-  print("공부 📚") 
+while(BSSM_HS):
+  myBrain.append("knowledge 📖")
 ```
 
 ## Connection 🔗
