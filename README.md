@@ -6,8 +6,9 @@ print("포기는 배추를 셀 때 하는말 🥬")
 ```
 ## Languages 📄
 - C
-- Python
-- HTML
+- Python(Flask)
+- HTML 5
+- CSS 3
 
 ## Recent My State 📊
 ``` Python
