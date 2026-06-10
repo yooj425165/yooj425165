@@ -4,6 +4,10 @@
 ``` Python
 print("포기는 배추를 셀 때 하는말 🥬")
 ```
+
+## Achievements 🏆
+- 제 8회 교육 공공데이터 AI 활용 대회(ing)
+
 ## Languages 📄
 - C
 - Python(Flask)
