@@ -6,14 +6,12 @@ print("포기는 배추를 셀 때 하는말 🥬")
 ```
 
 ## Achievements 🏆
-- 제 8회 교육 공공데이터 AI 활용 대회(ing)
+- 제 8회 교육 공공데이터 AI 활용 대회(예탈)
 
 ## Languages 📄
 - C
-- Python(Flask)
-- HTML 
-- CSS 
-- JavaScript 
+- Python
+- React 
 
 ## Recent My State 📊
 ``` Python
