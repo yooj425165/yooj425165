@@ -1,17 +1,17 @@
 # Welcome to My Git 👋
-제 Git은... 비어있습니다. 이것이 바로 **"여백의 미"** 입니다.
-> 꽃등 마음먹은 대로..
+어떤 상황에서도 '유연함'을 잃지 않는 개발자, 유재연입니다.
+> "꽃등 마음먹은 대로.."
 ``` Python
 print("포기는 배추를 셀 때 하는말 🥬")
 ```
 
 ## Achievements 🏆
-- 제 8회 교육 공공데이터 AI 활용 대회(예탈)
+- 2026년 부산소마고 1학년 1학기 전교 1등
 
-## Languages 📄
-- C
-- Python
-- React 
+## Skill Stacks 📄
+- React
+- Mysql
+- JavaScript
 
 ## Recent My State 📊
 ``` Python
