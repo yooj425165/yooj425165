@@ -1,5 +1,5 @@
-# Welcome to My Git 👋
-어떤 상황에서도 '유연함'을 잃지 않는 개발자, 유재연입니다.
+# Welcome to My GitHub 👋
+어떤 상황에서도 '유연함'을 잃지 않는 개발자, **유재연**입니다.
 > "꽃등 마음먹은 대로.."
 ``` Python
 print("포기는 배추를 셀 때 하는말 🥬")
@@ -8,20 +8,18 @@ print("포기는 배추를 셀 때 하는말 🥬")
 ## Achievements 🏆
 - 2026년 부산소마고 1학년 1학기 전교 1등
 
-## Skill Stacks 📄
+## Skills 📄
 - React
 - Mysql
 - JavaScript
 
-## Recent My State 📊
-``` Python
-BSSM_HS = 1
+## Recent My Study 📚
+- 딥러닝을 numpy와 matplotlib만을 통해 익히는 중
+- 책 '컴퓨터 시스템'을 통해 컴퓨터 구조 공부하는 중
+- 실제 개인 프로젝트를 통해 FastAPI 공부하는 중
 
-myBrain = []
 
-while(BSSM_HS):
-  myBrain.append("knowledge 📖")
-```
+
 
 ## Connection 🔗
 - 인스타그램 ⭐️ : [ya3.1650](https://www.instagram.com/ya3.1650?igsh=MXdjend0ZGViZmpleg%3D%3D&utm_source=qr)
