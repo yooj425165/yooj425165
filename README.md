@@ -5,13 +5,6 @@
 print("포기는 배추를 셀 때 하는말 🥬")
 ```
 
-``` Java
-class main
-public static void main(String args[]) {
-  System.out.println("Hi!");
-}
-```
-
 ## Achievements 🏆
 - 2026년 부산소프트웨어마이스터고등학교 1학년 1학기 전교 1등
 - 여름방학 대학 연계 동서대학교 로봇(AI/SW) 캠프 미니 해커톤 1위
