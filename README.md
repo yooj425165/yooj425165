@@ -10,11 +10,11 @@ print("포기는 배추를 셀 때 하는말 🥬")
 - 여름방학 대학 연계 동서대학교 로봇(AI/SW) 캠프 미니 해커톤 1위
 
 ## Skills 📄
-- React
-- FastAPI
-- Docker
-- Mysql
-- JavaScript
+- React 🧬
+- FastAPI ⚡️
+- Docker 🐳
+- Mysql 🗄️
+- JavaScript 🖥️
 
 ## Recent My Study 📚
 - 딥러닝을 numpy와 matplotlib만을 통해 익히는 중
