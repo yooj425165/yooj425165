@@ -5,18 +5,27 @@
 print("포기는 배추를 셀 때 하는말 🥬")
 ```
 
+``` Java
+class main
+public static void main(String args[]) {
+  System.out.println("Hi!");
+}
+```
+
 ## Achievements 🏆
-- 2026년 부산소마고 1학년 1학기 전교 1등
+- 2026년 부산소프트웨어마이스터고등학교 1학년 1학기 전교 1등
+- 여름방학 대학 연계 동서대학교 로봇(AI/SW) 캠프 미니 해커톤 1위
 
 ## Skills 📄
 - React
+- FastAPI
+- Docker
 - Mysql
 - JavaScript
 
 ## Recent My Study 📚
 - 딥러닝을 numpy와 matplotlib만을 통해 익히는 중
-- 책 '컴퓨터 시스템'을 통해 컴퓨터 구조 공부하는 중
-- 실제 개인 프로젝트를 통해 FastAPI 공부하는 중
+- 개인 프로젝트를 통해 FastAPI 공부하는 중(BSSM-soccer)
 
 
 
