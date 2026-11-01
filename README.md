@@ -19,6 +19,7 @@ print("포기는 배추를 셀 때 하는말 🥬")
 ## Recent My Study 📚
 - 딥러닝을 numpy와 matplotlib만을 통해 익히는 중
 - 개인 프로젝트를 통해 FastAPI 공부하는 중(BSSM-soccer)
+- BSSM 수학동아리 Unit3 PM / 개발([Organization 바로가기](https://github.com/unit3-mathbong/unit3))
 
 
 
